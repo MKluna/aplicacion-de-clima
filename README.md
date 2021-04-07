@@ -1,1 +1,1 @@
-# aplicacion-de-clima
+<p>Objetivos:</p><ol><li><p>Consumo de APIs</p></li><li><p>Llamadas HTTP hacia servidores externos</p></li><li><p>Paquete request - superficialmente</p></li><li><p>Paquete Axios</p></li><li><p>Mapbox places para obtener lugares por nombre</p></li><li><p>Uso de OpenWeather para obtener el clima</p></li><li><p>Aplicación de consola con historial</p></li><li><p>Variables de entorno</p></li></ol><p><br></p>
